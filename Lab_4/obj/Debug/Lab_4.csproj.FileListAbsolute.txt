@@ -1,0 +1,9 @@
+C:\Users\loren\RiderProjects\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.AssemblyReference.cache
+C:\Users\loren\RiderProjects\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+C:\Users\loren\RiderProjects\Lab_4\Lab_4\bin\Debug\Lab_4.exe
+C:\Users\loren\RiderProjects\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+C:\Users\loren\RiderProjects\Lab_4\Lab_4\obj\Debug\Lab_4.exe
+C:\Users\loren\RiderProjects\Lab_4\Lab_4\obj\Debug\Lab_4.pdb
+C:\Users\loren\RiderProjects\Lab_4\Lab_4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\loren\RiderProjects\Lab_4\Lab_4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\loren\RiderProjects\Lab_4\Lab_4\obj\Debug\Lab_4.csproj.CopyComplete
